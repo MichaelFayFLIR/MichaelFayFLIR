@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Fay, a tech writer at FLIR. My handle is @MichaelFayFLIR.
 - 👀 I’m currently making tutorial videos for Conservator.
-- 🌱 I’m currently learning: github, NNTC
+- 🌱 I’m learning about: git/github, FLIR's Neural Network Target Classifier
 - I know about:
   - documentation tools: Doxygen, Sphinx/RST, Confluence, Camtasia, Microsoft Office, vi
   - programming languages: bash, Python, C, C++
