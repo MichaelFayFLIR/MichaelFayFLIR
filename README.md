@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelFayFLIR
+- 👋 Hi, I’m Michael Fay, a tech writer at FLIR. My handle is @MichaelFayFLIR.
 - 👀 I’m a tech writer, interested in documenting Conservator and NNTC
 - 🌱 I’m currently learning: github, NNTC
 - I know about:
