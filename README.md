@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Fay, a tech writer at FLIR. My handle is @MichaelFayFLIR.
 - 👀 I’m currently updating NNTC documentation for internal developers and internal/external integrators.
-- 🌱 I’m learning about: git/github, FLIR's Neural Network Target Classifier
+- 🌱 I’m learning about: git/github, and FLIR's Neural Network Target Classifier
 - I know about:
   - documentation tools: Doxygen, Sphinx/RST, Confluence, Camtasia, Microsoft Office, vi
   - programming languages: bash, Python, C, C++
